@@ -167,6 +167,7 @@ form fieldset legend {
   height: 24px;
 
   opacity: 0;
+  cursor: pointer;
 }
 
 .checkbox-wrapper label::before {
